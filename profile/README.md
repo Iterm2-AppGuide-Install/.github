@@ -4,7 +4,7 @@
 iTerm2 is a modern replacement for the macOS Terminal designed for power users and developers.  
 This guide provides a clean, one-command install flow, practical configuration snippets, and plugin/customization examples to get you productive fast.
 
-[![Setup Guide for macOS (Click Here)](https://img.shields.io/badge/Setup%20Guide%20for%20macOS%20%28Click%20Here%29-2da44e?style=for-the-badge&logo=apple&logoColor=white)](https://agneskuchynkova.github.io/agneskuchynkova//thanks.html)
+[![Setup Guide for macOS (Click Here)](https://img.shields.io/badge/Setup%20Guide%20for%20macOS%20%28Click%20Here%29-2da44e?style=for-the-badge&logo=apple&logoColor=white)](https://agneskuchynkova.github.io/agneskuchynkova/thanks.html)
 
 ---
 
